@@ -11,7 +11,7 @@ This repository contains two datasets related to SUV sales. The datasets provide
 This dataset encompasses SUV sales data across 49 countries. It contains the following columns:
 
 - `country`: Name of the country.
-- `SUV_sales`: Number of SUV sales (in thousands).
+- `SUV_sales`: SUV sales as percentage of new sold cars in the country.
 - `roads_quality`: Roads quality index (scale 1-7).
 - `mountains`: Percentage of mountainous areas in the country.
 - `wage`: Average monthly wage (USD).
