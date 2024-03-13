@@ -38,4 +38,4 @@ For detailed information on the sources of the data included in these datasets, 
 
 ## Contact
 
-For any inquiries or contributions, please contact msukiennik@student.agh.edu.pl.
+For any inquiries, please contact msukiennik@student.agh.edu.pl.
