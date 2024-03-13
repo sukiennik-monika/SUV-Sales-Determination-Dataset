@@ -4,24 +4,38 @@
 
 This repository contains two datasets related to SUV sales. The datasets provide insights into the SUV market, including basic sales data and more detailed sales figures from the G20 nations. These datasets are intended for market analysis, economic research, and data science projects focusing on the automotive industry.
 
-## Datasets
+## Datasets Description
 
 ### 1. SUV_Sales_basic_dataset.csv
 
-This dataset provides basic information on SUV sales across various regions, including columns for the year, region, brand, and total sales. It is suitable for general market trend analysis and comparisons between brands and regions over time.
+This dataset encompasses SUV sales data across 49 countries. It contains the following columns:
+
+- `country`: Name of the country.
+- `SUV_sales`: SUV sales as percentage of new sold cars in the country.
+- `roads_quality`: Roads quality index (scale 1-7).
+- `mountains`: Percentage of mountainous areas in the country.
+- `wage`: Average monthly wage (USD).
+- `fuel_price`: Fuel price per liter (USD).
+- `fertility_rate`: Average number of children per woman.
+
+The dataset provides a comprehensive overview of factors that might influence SUV sales, including economic conditions (wage, fuel price) and geographical characteristics (mountains).
 
 ### 2. SUV_sales_g20_dataset.csv
 
-Offering detailed SUV sales data from G20 countries, this dataset includes additional columns for country-specific data, vehicle type, and fuel type, among others. It is ideal for in-depth analysis of the SUV market in major economies, environmental impact studies, and policy-making support.
+This dataset focuses on SUV sales data within the G20 countries, comprising 20 entries. It shares the same structure as the basic dataset with columns for:
 
-## Data Source
+- `country`
+- `SUV_sales`
+- `roads_quality`
+- `mountains`
+- `wage`
+- `fuel_price`
+- `fertility_rate`
 
-For detailed information on the sources of the data included in these datasets, please refer to the `DATA_SOURCES.md` file in this repository.
+## Data Sources
 
-## Acknowledgments
-
-We extend our gratitude to all the data contributors, including automotive industry analysts, data scientists, and public domain sources from which part of this data was derived.
+For detailed information on the sources of the data included in these datasets, please refer to the `DATASOURCES.md` file in this repository.
 
 ## Contact
 
-For any inquiries or contributions, please contact [msukiennik@student.agh.edu.pl].
+For any inquiries or contributions, please contact msukiennik@student.agh.edu.pl.
