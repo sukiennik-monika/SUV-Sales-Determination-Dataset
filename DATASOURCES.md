@@ -126,10 +126,6 @@ Data on SUV sales percentages were sourced from a variety of reports and databas
 
 - Numbeo: [Cost of Living - Country Price Rankings (Fuel)](https://www.numbeo.com/cost-of-living/country_price_rankings?itemId=24)
 
-## Fertility Rate
-
-- CIA World Factbook: [Total Fertility Rate Country Comparison](https://www.cia.gov/the-world-factbook/field/total-fertility-rate/country-comparison)
-
 ## Percentage of the Mountain Area
 
 - GRID-Arendal: [Resources](https://www.grida.no/resources/12769)

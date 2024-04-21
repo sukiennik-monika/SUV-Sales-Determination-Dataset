@@ -16,7 +16,6 @@ This dataset encompasses SUV sales data across 49 countries. It contains the fol
 - `mountains`: Percentage of mountainous areas in the country.
 - `wage`: Average monthly wage (USD).
 - `fuel_price`: Fuel price per liter (USD).
-- `fertility_rate`: Average number of children per woman.
 
 The dataset provides a comprehensive overview of factors that might influence SUV sales, including economic conditions (wage, fuel price) and geographical characteristics (mountains).
 
@@ -30,7 +29,6 @@ This dataset focuses on SUV sales data within the G20 countries, comprising 20 e
 - `mountains`
 - `wage`
 - `fuel_price`
-- `fertility_rate`
 
 ## Data Sources
 
